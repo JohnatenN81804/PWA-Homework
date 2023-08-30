@@ -21,3 +21,6 @@ Just Another Text Editor (J.A.T.E) is a progressive web app that provides a simp
 
 1. After Building the app run npm start and the app will start
 
+# Please READ!!
+
+The instructor gave the students a homework helper so there will be code already made for us
